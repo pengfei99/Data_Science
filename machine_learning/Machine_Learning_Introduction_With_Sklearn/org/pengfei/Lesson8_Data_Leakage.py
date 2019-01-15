@@ -18,7 +18,7 @@ Leaky Validation Strategy
 A much different type of leak occurs when you aren't careful distinguishing training data from validation data. 
 For example, this happens if you run preprocessing (like fitting the Imputer for missing values) before calling 
 train_test_split. Validation is meant to be a measure of how the model does on data it hasn't considered before. 
-You can corrupt this process in subtle ways if the validation data affects the preprocessing behavoir.. The end result? 
+You can corrupt this process in subtle ways if the validation data affects the preprocessing behavoir. The end result? 
 Your model will get very good validation scores, giving you great confidence in it, but perform poorly when you deploy 
 it to make decisions.
 

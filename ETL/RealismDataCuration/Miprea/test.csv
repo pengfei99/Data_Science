@@ -1,0 +1,8 @@
+,Unnamed: 0,Patient_ID,kinetic,HAI,DEATH_D28,SEX,GRAVITY,IC (Ct),EBV (Ct),IC Sample -ICW0,EBV (cp/µL),EBV_logCpmL,IC (Ct).1,CMV (Ct),IC Sample -ICW0.1,CMV (cp/µL),CMV_logCpmL,IC (Ct).2,HSV1 (Ct),IC Sample -ICW0.2,HSV1 (cp/µL),HSV1_logCpmL,HHV6 (Ct),HHV6 (cp/µL),HHV6_logCpmL,HHV7_Ct,IC (Ct).3,TTV (Ct),IC Sample -ICW0.3,TTV (cp/µL),TTV_logCpmL,Sample_ID,Time_point
+0,Samples ,1034,J1,No,Survivors,Female,severe,34.17,,4.07,,,33.05,,3.0,,,35.16,,3.12,,,,,,,33.6,,11.76,,,1034_D1,1
+1,,1034,J3/4,,,,,40.25,,10.15,,,39.65,,9.6,,,43.77,,11.73,,,,,,,,,-21.84,,,1034_D3,2
+2,,1034,J5/7,,,,,30.82,,0.72,,,30.79,,0.74,,,31.01,,-1.03,,,,,,,23.2,,1.36,,,1034_D6,3
+3,,1072,J1,Yes,Non survivors,Male,not severe,30.3,,0.2,,,30.22,,0.17,,,30.57,,-1.47,,,,,,,21.39,35.41,-0.45,2.5,812.5,1072_D1,1
+4,,1072,J3/4,,,,,30.29,,0.19,,,30.25,,0.2,,,30.57,,-1.47,,,,,,,22.0,36.0,0.16,1.7,552.5,1072_D3,2
+5,,1072,J5/7,,,,,30.75,,0.65,,,30.57,,0.52,,,31.3,,-0.74,,,,,,,28.54,,6.7,,,1072_D6,3
+6,,1113,J1,No,Survivors,Male,severe,30.76,,0.66,,,30.47,,0.42,,,30.92,,-1.12,,,,,,,23.0,36.85,1.16,1.0,325.0,1113_D1,1

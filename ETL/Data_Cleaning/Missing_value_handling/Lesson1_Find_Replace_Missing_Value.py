@@ -1,6 +1,25 @@
 import pandas as pd
 import numpy as np
 
+
+#############################################################
+############ Introduction ###################################
+#############################################################
+
+"""
+In almost all data sets, you will encouter the missing value problems, you only have two choice if you want
+to feed the data to your machine learning model, 
+
+1. drop the column or row which contains the missing value
+2. Fill the cell with some estimate value (mean). 
+
+In this Lesson, we will see 
+
+1. How to identify missing values
+2. Determine why the values is missing (is it random)?
+3. Guess(Impute) the values that are misssing
+"""
+
 ##########################################
 # Prepare data set #######################
 ##########################################
@@ -57,6 +76,20 @@ On the other hand, there are other fields, like `PenalizedTeam` that also have l
 though, the field is missing because if there was no penalty then it doesn't make sense to say *which* team was 
 penalized. For this column, it would make more sense to either leave it empty or to add a third value like "neither" 
 and use that to replace the NA's.
+"""
+
+"""
+Is your data MAR (Missing At Random)?
+
+For the values that does not exist in real world (e.g. 3 room column of a two room appartment), they are 
+not missing at Random.
+
+For the values that does not recorded in the data set, but it exits in real world. For example, the
+age or sex of a patient, we know it must exist. If these kind of values is missing, we can say that our
+data is missing at random.
+
+But, most of times, it's hard to determine a value is missing because of not recorded or not exist.
+There is a good paper(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4121561/) which explains the difficulties.
 """
 
 #####################################

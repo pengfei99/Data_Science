@@ -13,26 +13,29 @@
     <SUITE FILE_PATH="coverage/Home_prices_predicting$Removing_Missing_Value.coverage" NAME="Removing_Missing_Value Coverage Results" MODIFIED="1522935433069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/org/pengfei" />
     <SUITE FILE_PATH="coverage/Home_prices_predicting$house_price_predication_random_forest.coverage" NAME="house_price_predication_random_forest Coverage Results" MODIFIED="1522920629971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/org/pengfei" />
     <SUITE FILE_PATH="coverage/Home_prices_predicting$Pipeline.coverage" NAME="Pipeline Coverage Results" MODIFIED="1523023134707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/org/pengfei" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_Introduction_with_Sklearn$Lesson9_linear_regression_example.coverage" NAME="Lesson9_linear_regression_example Coverage Results" MODIFIED="1527514928104" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/org/pengfei" />
     <SUITE FILE_PATH="coverage/Home_prices_predicting$Explore_Data_Build_Model_Lesson1.coverage" NAME="Explore_Data_Build_Model_Lesson1 Coverage Results" MODIFIED="1524126482827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/org/pengfei" />
-    <SUITE FILE_PATH="coverage/Machine_Learning_Introduction_with_Sklearn$Explore_Data_Build_Model_Lesson1__1_.coverage" NAME="Explore_Data_Build_Model_Lesson1 (1) Coverage Results" MODIFIED="1524127818249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Machine_Learning_Introduction_With_Sklearn/org/pengfei" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_Introduction_with_Sklearn$Explore_Data_Build_Model_Lesson1__1_.coverage" NAME="Explore_Data_Build_Model_Lesson1 (1) Coverage Results" MODIFIED="1524127818249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/org/pengfei" />
     <SUITE FILE_PATH="coverage/Home_prices_predicting$Partial_Dependence_Plots.coverage" NAME="Partial_Dependence_Plots Coverage Results" MODIFIED="1522936494861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/org/pengfei" />
     <SUITE FILE_PATH="coverage/Home_prices_predicting$house_price_predication_xgboost.coverage" NAME="house_price_predication_xgboost Coverage Results" MODIFIED="1522921037778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/org/pengfei" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_Introduction_with_Sklearn$Lesson0_Machine_learning_Introduction.coverage" NAME="Lesson0_Machine_learning_Introduction Coverage Results" MODIFIED="1527856961812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/org/pengfei" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_Introduction_with_Sklearn$Lesson88_Neural_network_keras.coverage" NAME="Lesson88_Neural_network_keras Coverage Results" MODIFIED="1528723992375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/org/pengfei" />
     <SUITE FILE_PATH="coverage/Home_prices_predicting$Explore_data.coverage" NAME="Explore_data Coverage Results" MODIFIED="1522766009088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/org/pengfei" />
     <SUITE FILE_PATH="coverage/Home_prices_predicting$Cross_Validation.coverage" NAME="Cross_Validation Coverage Results" MODIFIED="1523023494172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/org/pengfei" />
     <SUITE FILE_PATH="coverage/Home_prices_predicting$Model_optimisation.coverage" NAME="Model_optimisation Coverage Results" MODIFIED="1522766048373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/org/pengfei" />
     <SUITE FILE_PATH="coverage/Home_prices_predicting$Data_leakage.coverage" NAME="Data_leakage Coverage Results" MODIFIED="1523348446389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/org/pengfei" />
-    <SUITE FILE_PATH="coverage/Machine_Learning_Introduction_with_Sklearn$Lesson4_Transform_Categorical_Data.coverage" NAME="Lesson4_Transform_Categorical_Data Coverage Results" MODIFIED="1524146138839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Machine_Learning_Introduction_With_Sklearn/org/pengfei" />
-    <SUITE FILE_PATH="coverage/Machine_Learning_Introduction_with_Sklearn$Model_Optimisation_Lesson2.coverage" NAME="Model_Optimisation_Lesson2 Coverage Results" MODIFIED="1524142577608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Machine_Learning_Introduction_With_Sklearn/org/pengfei" />
-    <SUITE FILE_PATH="coverage/Machine_Learning_Introduction_with_Sklearn$Lesson5_Partial_Dependence_Plots.coverage" NAME="Lesson5_Partial_Dependence_Plots Coverage Results" MODIFIED="1524149696663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Machine_Learning_Introduction_With_Sklearn/org/pengfei" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_Introduction_with_Sklearn$Lesson4_Transform_Categorical_Data.coverage" NAME="Lesson4_Transform_Categorical_Data Coverage Results" MODIFIED="1524146138839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/org/pengfei" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_Introduction_with_Sklearn$Model_Optimisation_Lesson2.coverage" NAME="Model_Optimisation_Lesson2 Coverage Results" MODIFIED="1524142577608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/org/pengfei" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_Introduction_with_Sklearn$Lesson5_Partial_Dependence_Plots.coverage" NAME="Lesson5_Partial_Dependence_Plots Coverage Results" MODIFIED="1524149696663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/org/pengfei" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="Lesson1_Explore_Data_Build_Model.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Machine_Learning_Introduction_With_Sklearn/org/pengfei/Lesson1_Explore_Data_Build_Model.py">
+        <entry file="file://$PROJECT_DIR$/org/pengfei/Lesson1_Explore_Data_Build_Model.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="23" />
+            <state relative-caret-position="522">
+              <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
               <folding>
                 <element signature="e#26#45#0" expanded="true" />
               </folding>
@@ -41,10 +44,10 @@
         </entry>
       </file>
       <file leaf-file-name="Lesson2_Model_Optimisation.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Machine_Learning_Introduction_With_Sklearn/org/pengfei/Lesson2_Model_Optimisation.py">
+        <entry file="file://$PROJECT_DIR$/org/pengfei/Lesson2_Model_Optimisation.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="32" column="64" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="64" />
+            <state relative-caret-position="1044">
+              <caret line="62" column="50" lean-forward="false" selection-start-line="62" selection-start-column="50" selection-end-line="62" selection-end-column="50" />
               <folding>
                 <element signature="e#25#53#0" expanded="true" />
               </folding>
@@ -52,68 +55,34 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Lesson8_Data_Leakage.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../Machine_Learning_Introduction_With_Sklearn/org/pengfei/Lesson8_Data_Leakage.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="167" column="74" lean-forward="true" selection-start-line="167" selection-start-column="74" selection-end-line="167" selection-end-column="74" />
-              <folding>
-                <element signature="e#0#19#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Lesson4_Transform_Categorical_Data.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Machine_Learning_Introduction_With_Sklearn/org/pengfei/Lesson4_Transform_Categorical_Data.py">
+        <entry file="file://$PROJECT_DIR$/org/pengfei/Lesson4_Transform_Categorical_Data.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="129" column="3" lean-forward="true" selection-start-line="129" selection-start-column="3" selection-end-line="129" selection-end-column="3" />
+            <state relative-caret-position="1458">
+              <caret line="82" column="49" lean-forward="false" selection-start-line="82" selection-start-column="49" selection-end-line="82" selection-end-column="49" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Lesson88_Neural_network_keras.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/org/pengfei/Lesson88_Neural_network_keras.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="186" column="54" lean-forward="false" selection-start-line="186" selection-start-column="54" selection-end-line="186" selection-end-column="54" />
               <folding>
-                <element signature="e#0#19#0" expanded="true" />
+                <element signature="e#0#18#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Lesson5_Partial_Dependence_Plots.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Machine_Learning_Introduction_With_Sklearn/org/pengfei/Lesson5_Partial_Dependence_Plots.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="127" column="12" lean-forward="true" selection-start-line="127" selection-start-column="12" selection-end-line="127" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Lesson6_Pipeline.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Machine_Learning_Introduction_With_Sklearn/org/pengfei/Lesson6_Pipeline.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="444">
-              <caret line="59" column="0" lean-forward="true" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
-              <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Lesson7_Cross_Validation.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Machine_Learning_Introduction_With_Sklearn/org/pengfei/Lesson7_Cross_Validation.py">
+        <entry file="file://$PROJECT_DIR$/org/pengfei/Lesson7_Cross_Validation.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="26" column="14" lean-forward="true" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
+            <state relative-caret-position="594">
+              <caret line="37" column="53" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="37" selection-end-column="54" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="utils.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Machine_Learning_Introduction_With_Sklearn/org/pengfei/utils.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-216">
-              <caret line="18" column="48" lean-forward="true" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
-              <folding>
-                <element signature="e#0#47#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -130,6 +99,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>target</find>
+      <find>dumm</find>
     </findStrings>
   </component>
   <component name="IdeDocumentHistory">
@@ -148,15 +118,21 @@
         <option value="$PROJECT_DIR$/org/pengfei/Transform_Categorical_Data.py" />
         <option value="$PROJECT_DIR$/org/pengfei/Data_leakage.py" />
         <option value="$PROJECT_DIR$/org/pengfei/Explore_Data_Build_Model_Lesson1.py" />
-        <option value="$PROJECT_DIR$/../Machine_Learning_Introduction_With_Sklearn/org/pengfei/Explore_Data_Build_Model_Lesson1.py" />
-        <option value="$PROJECT_DIR$/../Machine_Learning_Introduction_With_Sklearn/org/pengfei/house_price_predication_random_forest.py" />
-        <option value="$PROJECT_DIR$/../Machine_Learning_Introduction_With_Sklearn/org/pengfei/house_price_predication_xgboost.py" />
-        <option value="$PROJECT_DIR$/../Machine_Learning_Introduction_With_Sklearn/org/pengfei/Model_Optimisation_Lesson2.py" />
-        <option value="$PROJECT_DIR$/../Machine_Learning_Introduction_With_Sklearn/org/pengfei/utils.py" />
-        <option value="$PROJECT_DIR$/../Machine_Learning_Introduction_With_Sklearn/org/pengfei/Lesson4_Transform_Categorical_Data.py" />
-        <option value="$PROJECT_DIR$/../Machine_Learning_Introduction_With_Sklearn/org/pengfei/Partial_Dependence_Plots.py" />
-        <option value="$PROJECT_DIR$/../Machine_Learning_Introduction_With_Sklearn/org/pengfei/Lesson5_Partial_Dependence_Plots.py" />
-        <option value="$PROJECT_DIR$/../Machine_Learning_Introduction_With_Sklearn/org/pengfei/Lesson6_Pipeline.py" />
+        <option value="$PROJECT_DIR$/org/pengfei/Explore_Data_Build_Model_Lesson1.py" />
+        <option value="$PROJECT_DIR$/org/pengfei/house_price_predication_random_forest.py" />
+        <option value="$PROJECT_DIR$/org/pengfei/house_price_predication_xgboost.py" />
+        <option value="$PROJECT_DIR$/org/pengfei/Model_Optimisation_Lesson2.py" />
+        <option value="$PROJECT_DIR$/org/pengfei/utils.py" />
+        <option value="$PROJECT_DIR$/org/pengfei/Partial_Dependence_Plots.py" />
+        <option value="$PROJECT_DIR$/org/pengfei/Lesson5_Partial_Dependence_Plots.py" />
+        <option value="$PROJECT_DIR$/org/pengfei/Lesson6_Pipeline.py" />
+        <option value="$PROJECT_DIR$/org/pengfei/Lesson8_Data_Leakage.py" />
+        <option value="$PROJECT_DIR$/org/pengfei/Lesson9_linear_regression_example.py" />
+        <option value="$PROJECT_DIR$/org/pengfei/Lesson9_Linear_Regression.py" />
+        <option value="$PROJECT_DIR$/org/pengfei/Lesson0_Machine_learning_Introduction.py" />
+        <option value="$PROJECT_DIR$/org/pengfei/Lesson10_Logistic_Regression.py" />
+        <option value="$PROJECT_DIR$/org/pengfei/Lesson4_Transform_Categorical_Data.py" />
+        <option value="$PROJECT_DIR$/org/pengfei/Lesson88_Neural_network_keras.py" />
       </list>
     </option>
   </component>
@@ -167,9 +143,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="-4" />
-    <option name="width" value="1920" />
-    <option name="height" value="965" />
+    <option name="x" value="-1" />
+    <option name="y" value="-11" />
+    <option name="width" value="1602" />
+    <option name="height" value="1093" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -186,6 +163,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -208,7 +186,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -229,45 +206,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Lesson5_Partial_Dependence_Plots">
-    <configuration default="false" name="Explore_Data_Build_Model_Lesson1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Machine_Learning_Introduction_With_Sklearn/org/pengfei" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Machine_Learning_Introduction_with_Sklearn" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Machine_Learning_Introduction_With_Sklearn/org/pengfei/Lesson1_Explore_Data_Build_Model.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Model_Optimisation_Lesson2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Machine_Learning_Introduction_With_Sklearn/org/pengfei" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Machine_Learning_Introduction_with_Sklearn" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Machine_Learning_Introduction_With_Sklearn/org/pengfei/Lesson2_Model_Optimisation.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.Lesson88_Neural_network_keras">
     <configuration default="false" name="Lesson4_Transform_Categorical_Data" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -275,13 +214,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Machine_Learning_Introduction_With_Sklearn/org/pengfei" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/org/pengfei" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Machine_Learning_Introduction_with_Sklearn" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Machine_Learning_Introduction_With_Sklearn/org/pengfei/Lesson4_Transform_Categorical_Data.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/org/pengfei/Lesson4_Transform_Categorical_Data.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -294,13 +233,70 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Machine_Learning_Introduction_With_Sklearn/org/pengfei" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/org/pengfei" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Machine_Learning_Introduction_with_Sklearn" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Machine_Learning_Introduction_With_Sklearn/org/pengfei/Lesson5_Partial_Dependence_Plots.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/org/pengfei/Lesson5_Partial_Dependence_Plots.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Lesson9_linear_regression_example" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/org/pengfei" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Machine_Learning_Introduction_With_Sklearn" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/org/pengfei/Lesson9_Linear_Regression.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Lesson0_Machine_learning_Introduction" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/org/pengfei" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Machine_Learning_Introduction_With_Sklearn" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/org/pengfei/Lesson0_Machine_learning_Introduction.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Lesson88_Neural_network_keras" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/org/pengfei" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Machine_Learning_Introduction_With_Sklearn" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/org/pengfei/Lesson88_Neural_network_keras.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -438,6 +434,23 @@
       <option name="USE_PATTERN" value="false" />
       <method />
     </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Machine_Learning_Introduction_With_Sklearn" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
     <configuration default="true" type="tests" factoryName="Unittests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -454,18 +467,20 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method />
     </configuration>
-    <list size="4">
-      <item index="0" class="java.lang.String" itemvalue="Python.Explore_Data_Build_Model_Lesson1 (1)" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Model_Optimisation_Lesson2" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Lesson4_Transform_Categorical_Data" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Lesson5_Partial_Dependence_Plots" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.Lesson4_Transform_Categorical_Data" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Lesson5_Partial_Dependence_Plots" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Lesson9_linear_regression_example" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Lesson0_Machine_learning_Introduction" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Lesson88_Neural_network_keras" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Python.Lesson5_Partial_Dependence_Plots" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Lesson4_Transform_Categorical_Data" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Model_Optimisation_Lesson2" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Explore_Data_Build_Model_Lesson1 (1)" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.Lesson88_Neural_network_keras" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Lesson0_Machine_learning_Introduction" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Lesson9_linear_regression_example" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Lesson5_Partial_Dependence_Plots" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Lesson4_Transform_Categorical_Data" />
       </list>
     </recent_temporary>
   </component>
@@ -483,28 +498,49 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="-4" width="1920" height="965" extended-state="6" />
+    <frame x="-1" y="-11" width="1602" height="1093" extended-state="6" />
     <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2525" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2951389" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20260416" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.66903913" sideWeight="0.5037274" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3275463" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26753864" sideWeight="0.49627262" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3275463" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900944" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2673611" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25291005" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3275463" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="processedProjectFiles" value="true" />
@@ -519,7 +555,29 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../Machine_Learning_Introduction_With_Sklearn/org/pengfei/Lesson1_Explore_Data_Build_Model.py">
+    <entry file="file://$PROJECT_DIR$/org/pengfei/Lesson7_Cross_Validation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/org/pengfei/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="18" column="48" lean-forward="true" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/org/pengfei/Lesson8_Data_Leakage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3114">
+          <caret line="176" column="0" lean-forward="true" selection-start-line="176" selection-start-column="0" selection-end-line="176" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/org/pengfei/Lesson1_Explore_Data_Build_Model.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -529,7 +587,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Machine_Learning_Introduction_With_Sklearn/org/pengfei/Lesson2_Model_Optimisation.py">
+    <entry file="file://$PROJECT_DIR$/org/pengfei/Lesson2_Model_Optimisation.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
           <caret line="3" column="64" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="64" />
@@ -539,61 +597,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Machine_Learning_Introduction_With_Sklearn/org/pengfei/Lesson8_Data_Leakage.py">
+    <entry file="file://$PROJECT_DIR$/org/pengfei/Lesson8_Data_Leakage.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1008">
           <caret line="59" column="22" lean-forward="true" selection-start-line="59" selection-start-column="22" selection-end-line="59" selection-end-column="22" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Machine_Learning_Introduction_With_Sklearn/org/pengfei/Lesson5_Partial_Dependence_Plots.py">
+    <entry file="file://$PROJECT_DIR$/org/pengfei/Lesson5_Partial_Dependence_Plots.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
           <caret line="21" column="18" lean-forward="true" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Machine_Learning_Introduction_With_Sklearn/org/pengfei/Lesson6_Pipeline.py">
+    <entry file="file://$PROJECT_DIR$/org/pengfei/Lesson6_Pipeline.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
           <caret line="23" column="41" lean-forward="false" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Machine_Learning_Introduction_With_Sklearn/org/pengfei/Lesson4_Transform_Categorical_Data.py">
+    <entry file="file://$PROJECT_DIR$/org/pengfei/Lesson4_Transform_Categorical_Data.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Machine_Learning_Introduction_With_Sklearn/org/pengfei/Lesson3_Handling_Missing_Value.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="16" column="48" lean-forward="false" selection-start-line="16" selection-start-column="48" selection-end-line="16" selection-end-column="48" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Machine_Learning_Introduction_With_Sklearn/org/pengfei/utils.py">
+    <entry file="file://$PROJECT_DIR$/org/pengfei/Lesson3_Handling_Missing_Value.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="41" />
-          <folding>
-            <element signature="e#0#47#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="234">
+          <caret line="16" column="48" lean-forward="false" selection-start-line="16" selection-start-column="48" selection-end-line="16" selection-end-column="48" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Machine_Learning_Introduction_With_Sklearn/org/pengfei/Lesson1_Explore_Data_Build_Model.py">
+    <entry file="file://$PROJECT_DIR$/org/pengfei/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/org/pengfei/Lesson1_Explore_Data_Build_Model.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="11" column="63" lean-forward="false" selection-start-line="11" selection-start-column="54" selection-end-line="11" selection-end-column="63" />
@@ -603,7 +650,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Machine_Learning_Introduction_With_Sklearn/org/pengfei/Lesson2_Model_Optimisation.py">
+    <entry file="file://$PROJECT_DIR$/org/pengfei/Lesson2_Model_Optimisation.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
           <caret line="3" column="64" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="64" />
@@ -613,45 +660,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Machine_Learning_Introduction_With_Sklearn/org/pengfei/Lesson8_Data_Leakage.py">
+    <entry file="file://$PROJECT_DIR$/org/pengfei/Lesson8_Data_Leakage.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="648">
           <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Machine_Learning_Introduction_With_Sklearn/org/pengfei/Lesson3_Handling_Missing_Value.py">
+    <entry file="file://$PROJECT_DIR$/org/pengfei/Lesson3_Handling_Missing_Value.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="12" column="14" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="13" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/org/pengfei/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/org/pengfei/Lesson4_Transform_Categorical_Data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Machine_Learning_Introduction_With_Sklearn/org/pengfei/utils.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="41" />
-          <folding>
-            <element signature="e#0#47#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Machine_Learning_Introduction_With_Sklearn/org/pengfei/Lesson4_Transform_Categorical_Data.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Machine_Learning_Introduction_With_Sklearn/org/pengfei/Lesson1_Explore_Data_Build_Model.py">
+    <entry file="file://$PROJECT_DIR$/org/pengfei/Lesson1_Explore_Data_Build_Model.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="11" column="63" lean-forward="false" selection-start-line="11" selection-start-column="54" selection-end-line="11" selection-end-column="63" />
@@ -661,7 +699,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Machine_Learning_Introduction_With_Sklearn/org/pengfei/Lesson2_Model_Optimisation.py">
+    <entry file="file://$PROJECT_DIR$/org/pengfei/Lesson2_Model_Optimisation.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="12" column="48" lean-forward="false" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="60" />
@@ -671,40 +709,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Machine_Learning_Introduction_With_Sklearn/org/pengfei/Lesson6_Pipeline.py">
+    <entry file="file://$PROJECT_DIR$/org/pengfei/Lesson6_Pipeline.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
           <caret line="23" column="41" lean-forward="true" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Machine_Learning_Introduction_With_Sklearn/org/pengfei/Lesson3_Handling_Missing_Value.py">
+    <entry file="file://$PROJECT_DIR$/org/pengfei/Lesson3_Handling_Missing_Value.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2088">
           <caret line="119" column="94" lean-forward="true" selection-start-line="118" selection-start-column="0" selection-end-line="119" selection-end-column="94" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Machine_Learning_Introduction_With_Sklearn/org/pengfei/utils.py">
+    <entry file="file://$PROJECT_DIR$/org/pengfei/utils.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="41" />
-          <folding>
-            <element signature="e#0#47#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Machine_Learning_Introduction_With_Sklearn/org/pengfei/Lesson7_Cross_Validation.py">
+    <entry file="file://$PROJECT_DIR$/org/pengfei/Lesson7_Cross_Validation.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="756">
           <caret line="46" column="3" lean-forward="true" selection-start-line="46" selection-start-column="3" selection-end-line="46" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Machine_Learning_Introduction_With_Sklearn/org/pengfei/Lesson1_Explore_Data_Build_Model.py">
+    <entry file="file://$PROJECT_DIR$/org/pengfei/Lesson1_Explore_Data_Build_Model.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="52" />
@@ -714,7 +747,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Machine_Learning_Introduction_With_Sklearn/org/pengfei/Lesson2_Model_Optimisation.py">
+    <entry file="file://$PROJECT_DIR$/org/pengfei/Lesson2_Model_Optimisation.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="12" column="48" lean-forward="false" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="60" />
@@ -724,24 +757,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Machine_Learning_Introduction_With_Sklearn/org/pengfei/utils.py">
+    <entry file="file://$PROJECT_DIR$/org/pengfei/utils.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="774">
           <caret line="48" column="23" lean-forward="false" selection-start-line="48" selection-start-column="23" selection-end-line="48" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#47#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Machine_Learning_Introduction_With_Sklearn/org/pengfei/Lesson5_Partial_Dependence_Plots.py">
+    <entry file="file://$PROJECT_DIR$/org/pengfei/Lesson5_Partial_Dependence_Plots.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="756">
           <caret line="47" column="10" lean-forward="true" selection-start-line="47" selection-start-column="10" selection-end-line="47" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Machine_Learning_Introduction_With_Sklearn/org/pengfei/Lesson1_Explore_Data_Build_Model.py">
+    <entry file="file://$PROJECT_DIR$/org/pengfei/Lesson1_Explore_Data_Build_Model.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="52" />
@@ -751,24 +781,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Machine_Learning_Introduction_With_Sklearn/org/pengfei/house_price_predication_random_forest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="11" column="41" lean-forward="true" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Machine_Learning_Introduction_With_Sklearn/org/pengfei/utils.py">
+    <entry file="file://$PROJECT_DIR$/org/pengfei/house_price_predication_random_forest.py" />
+    <entry file="file://$PROJECT_DIR$/org/pengfei/utils.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
           <caret line="21" column="43" lean-forward="true" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
-          <folding>
-            <element signature="e#0#47#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Machine_Learning_Introduction_With_Sklearn/org/pengfei/Lesson2_Model_Optimisation.py">
+    <entry file="file://$PROJECT_DIR$/org/pengfei/Lesson2_Model_Optimisation.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
@@ -778,7 +799,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Machine_Learning_Introduction_With_Sklearn/org/pengfei/Lesson1_Explore_Data_Build_Model.py">
+    <entry file="file://$PROJECT_DIR$/org/pengfei/Lesson1_Explore_Data_Build_Model.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2880">
           <caret line="166" column="0" lean-forward="true" selection-start-line="166" selection-start-column="0" selection-end-line="166" selection-end-column="0" />
@@ -788,17 +809,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Machine_Learning_Introduction_With_Sklearn/org/pengfei/utils.py">
+    <entry file="file://$PROJECT_DIR$/org/pengfei/utils.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="10" column="35" lean-forward="false" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
-          <folding>
-            <element signature="e#0#47#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Machine_Learning_Introduction_With_Sklearn/org/pengfei/Lesson2_Model_Optimisation.py">
+    <entry file="file://$PROJECT_DIR$/org/pengfei/Lesson2_Model_Optimisation.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="468">
           <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
@@ -808,7 +826,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Machine_Learning_Introduction_With_Sklearn/org/pengfei/Lesson1_Explore_Data_Build_Model.py">
+    <entry file="file://$PROJECT_DIR$/org/pengfei/Lesson1_Explore_Data_Build_Model.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -818,108 +836,107 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Machine_Learning_Introduction_With_Sklearn/org/pengfei/house_price_predication_random_forest.py">
+    <entry file="file://$PROJECT_DIR$/org/pengfei/house_price_predication_random_forest.py" />
+    <entry file="file://$PROJECT_DIR$/org/pengfei/house_price_predication_xgboost.py" />
+    <entry file="file://$PROJECT_DIR$/org/pengfei/utils.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="216">
+          <caret line="18" column="48" lean-forward="false" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Machine_Learning_Introduction_With_Sklearn/org/pengfei/Lesson1_Explore_Data_Build_Model.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="23" />
-          <folding>
-            <element signature="e#26#45#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Machine_Learning_Introduction_With_Sklearn/org/pengfei/house_price_predication_xgboost.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Machine_Learning_Introduction_With_Sklearn/org/pengfei/Lesson3_Handling_Missing_Value.py">
+    <entry file="file://$PROJECT_DIR$/org/pengfei/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/org/pengfei/Lesson3_Handling_Missing_Value.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Machine_Learning_Introduction_With_Sklearn/org/pengfei/Lesson2_Model_Optimisation.py">
+    <entry file="file://$PROJECT_DIR$/org/pengfei/Lesson1_Explore_Data_Build_Model.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="32" column="64" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="64" />
+        <state relative-caret-position="522">
+          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding>
+            <element signature="e#26#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/org/pengfei/Lesson8_Data_Leakage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/org/pengfei/Lesson6_Pipeline.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="44" column="0" lean-forward="true" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/org/pengfei/Lesson5_Partial_Dependence_Plots.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="30" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/org/pengfei/Lesson9_Linear_Regression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/org/pengfei/Lesson0_Machine_learning_Introduction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1422">
+          <caret line="79" column="41" lean-forward="false" selection-start-line="79" selection-start-column="41" selection-end-line="79" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/org/pengfei/Lesson10_Logistic_Regression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/org/pengfei/Lesson2_Model_Optimisation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1044">
+          <caret line="62" column="50" lean-forward="false" selection-start-line="62" selection-start-column="50" selection-end-line="62" selection-end-column="50" />
           <folding>
             <element signature="e#25#53#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Machine_Learning_Introduction_With_Sklearn/org/pengfei/Lesson4_Transform_Categorical_Data.py">
+    <entry file="file://$PROJECT_DIR$/org/pengfei/Lesson7_Cross_Validation.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="129" column="3" lean-forward="true" selection-start-line="129" selection-start-column="3" selection-end-line="129" selection-end-column="3" />
+        <state relative-caret-position="594">
+          <caret line="37" column="53" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="37" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/org/pengfei/Lesson4_Transform_Categorical_Data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1458">
+          <caret line="82" column="49" lean-forward="false" selection-start-line="82" selection-start-column="49" selection-end-line="82" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/org/pengfei/Lesson88_Neural_network_keras.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="186" column="54" lean-forward="false" selection-start-line="186" selection-start-column="54" selection-end-line="186" selection-end-column="54" />
           <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Machine_Learning_Introduction_With_Sklearn/org/pengfei/utils.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-216">
-          <caret line="18" column="48" lean-forward="true" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
-          <folding>
-            <element signature="e#0#47#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Machine_Learning_Introduction_With_Sklearn/org/pengfei/Lesson5_Partial_Dependence_Plots.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="127" column="12" lean-forward="true" selection-start-line="127" selection-start-column="12" selection-end-line="127" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Machine_Learning_Introduction_With_Sklearn/org/pengfei/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Machine_Learning_Introduction_With_Sklearn/org/pengfei/Lesson6_Pipeline.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="444">
-          <caret line="59" column="0" lean-forward="true" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Machine_Learning_Introduction_With_Sklearn/org/pengfei/Lesson7_Cross_Validation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="26" column="14" lean-forward="true" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Machine_Learning_Introduction_With_Sklearn/org/pengfei/Lesson8_Data_Leakage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="167" column="74" lean-forward="true" selection-start-line="167" selection-start-column="74" selection-end-line="167" selection-end-column="74" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
+            <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>

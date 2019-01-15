@@ -1,5 +1,6 @@
 import fuzzywuzzy
 import re
+import numpy as np
 
 # function to replace rows in the provided column of the provided dataframe
 # that match the provided string above the provided ratio with the provided string
@@ -43,3 +44,32 @@ def getWrongDateFormat(dateList):
             print(date)
     print("Correct format date size : "+str(n))
     print("All date size : "+str(len(dateList)))
+
+
+# give an column of data set type numeric, return the outliers of this column
+# We define value where Z score is > 3 is consider as outliers
+def outliers_z_score(ys):
+    threshold = 3
+    mean_y = np.mean(ys)
+    stdev_y = np.std(ys)
+    z_scores = [(y - mean_y) / stdev_y for y in ys]
+    return np.where(np.abs(z_scores) > threshold)
+
+
+
+def outliers_modified_z_score(ys):
+    threshold = 3.5
+
+    median_y = np.median(ys)
+    median_absolute_deviation_y = np.median([np.abs(y - median_y) for y in ys])
+    modified_z_scores = [0.6745 * (y - median_y) / median_absolute_deviation_y
+                         for y in ys]
+    return np.where(np.abs(modified_z_scores) > threshold)
+
+
+def outliers_iqr(ys):
+    quartile_1, quartile_3 = np.percentile(ys, [25, 75])
+    iqr = quartile_3 - quartile_1
+    lower_bound = quartile_1 - (iqr * 1.5)
+    upper_bound = quartile_3 + (iqr * 1.5)
+    return np.where((ys > upper_bound) | (ys < lower_bound))

@@ -7,6 +7,8 @@ Introduction
 All the ml model are not text (string) friendly, we need to transform text to digit(e.g. int, float, etc.)
 Categorical data is data that takes only a limited number of values (e.g. Color red, blue, etc.).
 
+The normal process is to transform string label to numeric label
+
 One-Hot Encoding : The Standard Approach for Categorical Data
 
 One hot encoding is the most widespread approach, and it works very well unless your categorical variable takes on a 
@@ -70,6 +72,8 @@ test_predictors = candidate_test_predictors[my_cols]
 Object indicates a column has text (there are other things it could be theoretically be, but that's unimportant for 
 our purposes). It's most common to one-hot encode these "object" columns, since they can't be plugged directly into 
 most models. Pandas offers a convenient function called get_dummies to get one-hot encodings. Call it like this:
+
+This process, we call it create dummy variables for categorical columns
 """
 
 ###########################################################################################
