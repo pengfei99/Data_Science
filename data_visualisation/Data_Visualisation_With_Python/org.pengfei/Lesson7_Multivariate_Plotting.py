@@ -3,10 +3,10 @@ import pandas as pd
 import numpy as np
 import seaborn as sns
 import matplotlib.pyplot as plt
-from pandas.tools.plotting import parallel_coordinates
-from utils import isDecimal
+from pandas.plotting import parallel_coordinates
+# from utils import isDecimal
 
-footballer_input_file='/home/pliu/Downloads/data_set/pandas_data_visu/footballer.csv'
+footballer_input_file='/home/pliu/data_set/python_data_set/pandas_data_visu/footballer.csv'
 df=pd.read_csv(footballer_input_file,index_col=0,encoding='utf8')
 # print(df['Value'].head(5))
 # break the Value column(€95.5M) into two columns, Unit column can be M (million) or 0
@@ -247,7 +247,7 @@ higher rated on all of the variables we've chosen, meaning these two classes of 
 In data visualization, summarization works by compressing complex data into simpler, easier-to-plot indicators.
 """
 
-pokemon_input_file='/home/pliu/Downloads/data_set/pandas_data_visu/Pokemon.csv'
+pokemon_input_file='/home/pliu/data_set/python_data_set/pandas_data_visu/Pokemon.csv'
 pokemon=pd.read_csv(pokemon_input_file,index_col=0)
 
 # Q1 create a multivariate scatter plot with x= attack, y= defense, hue=legendary

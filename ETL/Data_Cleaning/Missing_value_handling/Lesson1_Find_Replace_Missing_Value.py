@@ -24,8 +24,8 @@ In this Lesson, we will see
 # Prepare data set #######################
 ##########################################
 
-nfl_data = pd.read_csv("/home/pliu/Downloads/python_data_cleaning/NFL_Play_by_Play_2009-2017_v4.csv")
-sf_permits = pd.read_csv("/home/pliu/Downloads/python_data_cleaning/Building_Permits.csv")
+nfl_data = pd.read_csv("/home/pliu/data_set/python_data_set/python_data_cleaning/day1_missing_value/NFL_Play_by_Play_2009-2017.csv")
+sf_permits = pd.read_csv("/home/pliu/data_set/python_data_set/python_data_cleaning/day1_missing_value/Building_Permits.csv")
 
 #set random number generator seed, to have the same sample in every execution of the code
 np.random.seed(0)

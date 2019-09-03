@@ -4,7 +4,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 
-input_file='/home/pliu/Downloads/data_set/pandas_data_visu/winemag-data_first150k.csv'
+input_file='/home/pliu/data_set/python_data_set/pandas_data_visu/winemag-data_first150k.csv'
 reviews=pd.read_csv(input_file,index_col=0)
 
 #print(reviews.head())
@@ -72,7 +72,7 @@ is one which plots the variables one on top of the other.
 We'll use a supplemental selection of the five most common wines for this next section.
 """
 
-# wine_counts_file='/home/pliu/Downloads/data_set/pandas_data_visu/top-five-wine-score-counts.csv'
+# wine_counts_file='/home/pliu/data_set/pandas_data_visu/top-five-wine-score-counts.csv'
 # wine_counts = pd.read_csv(wine_counts_file,index_col=0)
 #
 # print(wine_counts.head())
@@ -99,7 +99,7 @@ Another simple example is the area plot, which lends itself very naturally to th
 #################################################################################
 
 
-input_file='/home/pliu/Downloads/data_set/pandas_data_visu/Pokemon.csv'
+input_file='/home/pliu/data_set/python_data_set/pandas_data_visu/Pokemon.csv'
 pokemon=pd.read_csv(input_file,index_col=0)
 
 ##### Q1. scatter plot on attack and defense

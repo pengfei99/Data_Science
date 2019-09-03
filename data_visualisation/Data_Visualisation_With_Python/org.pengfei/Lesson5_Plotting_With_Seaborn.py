@@ -2,7 +2,7 @@ import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
 
-vin_input_file='/home/pliu/Downloads/data_set/pandas_data_visu/winemag-data_first150k.csv'
+vin_input_file='/home/pliu/data_set/python_data_set/pandas_data_visu/winemag-data_first150k.csv'
 reviews = pd.read_csv(vin_input_file, index_col=0)
 
 ########################################################
@@ -178,7 +178,7 @@ It shows basically the same data, but is harder to misinterpret and much prettie
 ###################################  Pokemon Excercise ############################################################
 ##################################################################################################################
 
-pokemon_input_file='/home/pliu/Downloads/data_set/pandas_data_visu/Pokemon.csv'
+pokemon_input_file='/home/pliu/data_set/python_data_set/pandas_data_visu/Pokemon.csv'
 pokemon=pd.read_csv(pokemon_input_file,index_col=0)
 
 #print(pokemon.shape)

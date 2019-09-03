@@ -16,7 +16,7 @@ single figure. So instead of one bar chart, we might have, say, four, arranged t
 In this notebook we'll put this technique in action, and see why it's so useful.
 """
 
-footballer_input_file='/home/pliu/Downloads/data_set/pandas_data_visu/footballer.csv'
+footballer_input_file='/home/pliu/data_set/python_data_set/pandas_data_visu/footballer.csv'
 footballer=pd.read_csv(footballer_input_file,index_col=0,encoding='utf8')
 
 #print(footballer.shape)
@@ -149,7 +149,7 @@ It's (1) a multivariate technique which (2) is very easy to use.
 Pair plots are most useful when just starting out with a dataset, because they help contextualize relationships within it.
 """
 
-pokemon_input_file='/home/pliu/Downloads/data_set/pandas_data_visu/Pokemon.csv'
+pokemon_input_file='/home/pliu/data_set/python_data_set/pandas_data_visu/Pokemon.csv'
 pokemon=pd.read_csv(pokemon_input_file,index_col=0)
 
 

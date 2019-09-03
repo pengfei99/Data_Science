@@ -4,7 +4,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 
-input_file='/home/pliu/Downloads/data_set/pandas_data_visu/winemag-data_first150k.csv'
+input_file='/home/pliu/data_set/python_data_set/pandas_data_visu/winemag-data_first150k.csv'
 reviews=pd.read_csv(input_file,index_col=0)
 
 #print(reviews.shape)
@@ -172,7 +172,7 @@ This phenomenon is known (statistically) as skew, and it's a fairly common occur
 ############################################################
 
 pd.set_option('max_columns',None)
-pokemon_input_file = '/home/pliu/Downloads/data_set/pandas_data_visu/Pokemon.csv'
+pokemon_input_file = '/home/pliu/data_set/python_data_set/pandas_data_visu/Pokemon.csv'
 pokemon = pd.read_csv(pokemon_input_file)
 
 #0

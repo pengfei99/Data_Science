@@ -21,7 +21,7 @@ In this section we will examine plotly, an open-source plotting library that's o
 libraries.
 """
 
-input_file='/home/pliu/Downloads/data_set/pandas_data_visu/winemag-data-130k-v2.csv'
+input_file='/home/pliu/data_set/python_data_set/pandas_data_visu/winemag-data-130k-v2.csv'
 
 reviews=pd.read_csv(input_file, index_col=0)
 # print(reviews.dtypes)

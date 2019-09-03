@@ -7,7 +7,7 @@ ubplotting is a technique for creating multiple plots that live side-by-side in 
 We can use the subplots method to create a figure with multiple subplots. subplots takes two arguments. 
 The first one controls the number of rows, the second one the number of columns.
 """
-input_file='/home/pliu/Downloads/data_set/pandas_data_visu/winemag-data_first150k.csv'
+input_file='/home/pliu/data_set/python_data_set/pandas_data_visu/winemag-data_first150k.csv'
 reviews=pd.read_csv(input_file,index_col=0)
 reviews.head(3)
 

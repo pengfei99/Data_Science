@@ -3,8 +3,8 @@
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
-from pandas.tools.plotting import lag_plot
-from pandas.tools.plotting import autocorrelation_plot
+from pandas.plotting import lag_plot
+from pandas.plotting import autocorrelation_plot
 
 """
 Types of time series variables
@@ -17,7 +17,7 @@ Dates can show up in your dataset in a few different ways. We'll examine the two
 In the "strong case" dates act as an explicit index on your dataset. A good example is the following dataset 
 on stock prices:
 """
-stocks_input_file = '/home/pliu/Downloads/data_set/pandas_data_visu/prices.csv'
+stocks_input_file = '/home/pliu/data_set/python_data_set/pandas_data_visu/prices.csv'
 
 stocks = pd.read_csv(stocks_input_file,parse_dates=['date'])
 
@@ -40,7 +40,7 @@ in the following dataset of animal shelter outcomes, there are two columns, date
 facts about the animal in the observation.
 """
 
-shelter_outcomes_file='/home/pliu/Downloads/data_set/pandas_data_visu/aac_shelter_outcomes.csv'
+shelter_outcomes_file='/home/pliu/data_set/python_data_set/pandas_data_visu/aac_shelter_outcomes.csv'
 shelter_outcomes=pd.read_csv(shelter_outcomes_file,parse_dates=['date_of_birth','datetime'])
 shelter_outcomes = shelter_outcomes[
     ['outcome_type', 'age_upon_outcome', 'datetime', 'animal_type', 'breed',
@@ -226,7 +226,7 @@ Resampling is often useful in data visualization because it can help clean up an
 3. What is lag? What is autocorrelation?
 Lag is the time-difference for each observation in the dataset. Autocorrelation is correlation applied to lag.
 """
-crypto_input_file="/home/pliu/Downloads/data_set/pandas_data_visu/crypto-markets.csv"
+crypto_input_file="/home/pliu/data_set/python_data_set/pandas_data_visu/crypto-markets.csv"
 crypto=pd.read_csv(crypto_input_file)
 crypto = crypto[crypto['name']=='Bitcoin']
 crypto['date'] = pd.to_datetime(crypto['date'])

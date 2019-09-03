@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-input_file='/home/pliu/Downloads/data_set/pandas_data_visu/winemag-data_first150k.csv'
+input_file='/home/pliu/data_set/python_data_set/pandas_data_visu/winemag-data_first150k.csv'
 reviews=pd.read_csv(input_file,index_col=0)
 reviews.head(3)
 
@@ -57,7 +57,7 @@ We can use another lib called seaborn which is also built based on matplotlib
 ################ Exercises on pokemon #########################################
 ##############################################################################
 
-pokemon_input_file='/home/pliu/Downloads/data_set/pandas_data_visu/Pokemon.csv'
+pokemon_input_file='/home/pliu/data_set/python_data_set/pandas_data_visu/Pokemon.csv'
 pokemon=pd.read_csv(pokemon_input_file,index_col=0)
 
 #### Add title to plot
