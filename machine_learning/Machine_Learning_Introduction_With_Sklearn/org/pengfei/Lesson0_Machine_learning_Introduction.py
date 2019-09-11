@@ -31,8 +31,8 @@ to 10 gram is a cluster called coin type 1. The same thing for coin type2 and ty
 know it's a type1, type2 or type3. This is unsupervised learning.
 
 
-3. Reinforcement learning : When you associate your output with a grade(inputs, some output, grade for this output), we call it reinforcement learning. It's very 
-usefull in design of game AI. 
+3. Reinforcement learning : When you associate your output with a grade(inputs, some output, grade for this output), 
+we call it reinforcement learning. It's very useful in design of game AI. 
 
 
 4. Classification is supervised learning in which the response is categorical.

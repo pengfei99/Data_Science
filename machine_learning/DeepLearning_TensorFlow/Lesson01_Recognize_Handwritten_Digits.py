@@ -74,9 +74,9 @@ print(val_loss, val_acc)
 
 prediction=model.predict([x_test])
 print(prediction)
-print("The CNN model predict the image is a "+ str(np.argmax(prediction[1])))
+print("The CNN model predict the image is a "+ str(np.argmax(prediction[2])))
 
-plt.imshow(x_test[1])
+plt.imshow(x_test[2])
 plt.show()
 ########################## 8. save the model #########################################################
 model.save('pengfei_cnn_digit_reader.model')
