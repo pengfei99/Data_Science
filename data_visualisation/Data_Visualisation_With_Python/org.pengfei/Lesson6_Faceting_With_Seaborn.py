@@ -69,12 +69,12 @@ Atletico Madrid, and FC Barcelona.
 As the plot below demonstrates, we can achieve this by passing row=Nationality and col=Club parameters into the plot.
 """
 # bivariate facet grid without order
-# df6 = footballer[footballer['Nationality'].isin(['France','Spain'])]
-# dfclub = df6[df6['Club'].isin(['Real Madrid CF', 'FC Barcelona'])]
+df6 = footballer[footballer['Nationality'].isin(['France','Spain'])]
+dfclub = df6[df6['Club'].isin(['Real Madrid CF', 'FC Barcelona'])]
 #
-# gclub= sns.FacetGrid(dfclub,row="Nationality",col="Club")
-# gclub.map(sns.violinplot,"Overall")
-# plt.show()
+gclub= sns.FacetGrid(dfclub,row="Nationality",col="Club")
+gclub.map(sns.violinplot,"Overall")
+plt.show()
 
 # bivariate facet grid with order
 """
@@ -159,9 +159,9 @@ pokemon=pd.read_csv(pokemon_input_file,index_col=0)
 # plt.show()
 
 # Q2. Compare attack values group by legendary and generation
-# gLG = sns.FacetGrid(pokemon,row="Generation",col="Legendary")
-# gLG.map(sns.kdeplot,"Attack")
-# plt.show()
+gLG = sns.FacetGrid(pokemon,row="Generation",col="Legendary")
+gLG.map(sns.kdeplot,"Attack")
+plt.show()
 
 # Q3. pairplot on HP, attack, defense
 sns.pairplot(pokemon[["HP", "Attack", "Defense"]])

@@ -86,18 +86,18 @@ Suppose we're interested in the following question: do Strikers score higher on 
 """
 # we filter the data set with only ST and GK
 # we keep only 4 columns
-# f = (footballers
-#          .loc[footballers['Position'].isin(['ST', 'GK'])]
-#          .loc[:, ['Value', 'Overall', 'Aggression', 'Position']]
-#     )
-# print(f.head(5))
+f = (footballers
+          .loc[footballers['Position'].isin(['ST', 'GK'])]
+          .loc[:, ['Value', 'Overall', 'Aggression', 'Position']]
+     )
+print(f.head(5))
 # we filter the data set with only overall score between 80 and 85
-# f = f[f["Overall"] >= 80]
-# f = f[f["Overall"] < 85]
-# f['Aggression'] = f['Aggression'].astype(float)
+f = f[f["Overall"] >= 80]
+f = f[f["Overall"] < 85]
+f['Aggression'] = f['Aggression'].astype(float)
 #
-# sns.boxplot(x="Overall", y="Aggression", hue='Position', data=f)
-# plt.show()
+sns.boxplot(x="Overall", y="Aggression", hue='Position', data=f)
+plt.show()
 
 """
 As you can see, this plot demonstrates conclusively that within our datasets goalkeepers (at least, those with an 

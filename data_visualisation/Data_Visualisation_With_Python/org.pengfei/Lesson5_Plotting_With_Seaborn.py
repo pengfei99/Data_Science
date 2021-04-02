@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 
 vin_input_file='/home/pliu/data_set/python_data_set/pandas_data_visu/winemag-data_first150k.csv'
 reviews = pd.read_csv(vin_input_file, index_col=0)
-
+print(reviews.head())
 ########################################################
 ########bar chart (pandas) = countplot (seaborn) ######
 ######################################################
@@ -16,8 +16,8 @@ the data for us!
 """
 # countplot take column points as argument
 
-#sns.countplot(reviews['points'])
-#plt.show()
+sns.countplot(reviews['points'])
+plt.show()
 
 
 ########### KDE Plot
