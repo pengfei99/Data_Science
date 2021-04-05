@@ -54,6 +54,10 @@ if __name__ == "__main__":
     warnings.filterwarnings("ignore")
     np.random.seed(40)
     input_path = "/home/pliu/data_set/argo_data_pipeline/pokemon-cleaned.csv"
+    csv_url = (
+        "https://minio.lab.sspcloud.fr/pengfei/sspcloud-demo/pokemon-cleaned.csv"
+    )
+
     # read data as df
     try:
         input_df = pd.read_csv(input_path, index_col=0)
