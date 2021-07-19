@@ -36,9 +36,16 @@ target.dtypes
 #       - Remove common words (with stoplist)
 #       - Handle punctuation
 #       - lowcase/upcase
-#       - Stemming
+#       - Stemming: remove common suffix (e.g. studies -> studi, studying -> study). There are different algorithms that can be used in 
+#                   the stemming process, but the most common in English is Porter stemmer. The rules contained in this algorithm are 
+#                   divided in five different phases numbered from 1 to 5. The purpose of these rules is to reduce the words to the root.
+#       - lemmatization: Get the origin of the word (e.g. am, are, was -> be, lives -> live). This is much harder to implement, because
+#                    deep linguistics knowledge is required to create the dictionaries that allow the algorithm to look for the proper 
+#                    form of the word. But the result will be more accurate.
 #       - Part-of-Speech Tagging (nouns, verbs, adj, etc.)
 #
+# For more info about stemming vs lemmatization:
+# https://blog.bitext.com/what-is-the-difference-between-stemming-and-lemmatization/
 ################################################################################################
 
 def cleanup_text(record):
