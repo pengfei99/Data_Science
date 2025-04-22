@@ -63,8 +63,22 @@ that are predicted as spam, 83.3% were real spam.
 
 #### 1.1.3 Recall
 
-**Accuracy** is a numeric value between `0(caught nothing) and 1(caught all)` that reflects how often the 
-model predict a correct label overall.
+**Recall** is a numeric value between `0(caught nothing) and 1(caught all)` that reflects how often the 
+model can catch an actual positive label. The formula to calculate: **Recall = TP / (TP + FN)**
+
+With the above cm example, we can say the model caught `5 / (5 + 1) = 0.833`. In another word, for all emails that are
+spams, the model caught 83.3%.
+
+> This value is useful when missing a spam are costly
+> 
+> 
+#### 1.1.3 F1 Score
+
+**F1 score** is a `harmonic mean value of precision value and recall value`. The formula to calculate F1 score: **2 × (Precision × Recall) / (Precision + Recall)**
+
+With the above cm example, we can say the F1 Score is `2 × (0.833 × 0.833) / (0.833 + 0.833) = 0.833`. 
+
+> The F1 score is very useful when classes in training dataset are imbalanced or you want fair trade-off.
 
 ## Choose metrics to evaluate a model
 
@@ -79,8 +93,6 @@ evaluate a classification model.
 
 For balanced dataset, we can also use `ROC Curve` and `AUC value` .
 For imbalanced dataset, we can use `Precision-Recall Curve` and `AUC value`
-
-
 
 
 
