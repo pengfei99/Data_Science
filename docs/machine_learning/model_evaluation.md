@@ -40,6 +40,32 @@ Based on the Confusion Matrix, we can calculate some basic stats:
 - **Recall**: Of all the actual positives, how many did the model find?
 - **F1 Score**: A balance between precision and recall.
 
+#### 1.1.1 Accuracy
+
+**Accuracy** is a numeric value between `0(never correct) and 1(always correct)` that reflects how often the 
+model predict a correct label overall. The formula to calculate: **Accuracy = (TP + TN) / All**.
+
+With the above cm example, we can say the model has `accuracy` of `(5 + 3) / 10 = 0.8`. In another word,
+My model is correct 80% of the time.
+
+> This value might be misleading if the model is trained with imbalanced datasets
+> 
+> 
+#### 1.1.2 Precision
+
+**Precision** is a numeric value between `0(never correct) and 1(always correct)` that reflects how often the positive
+prediction is correct. The formula to calculate: **Precision = TP / (TP + FP)**
+
+With the above cm example, we can say the model has `Precision` of `5/(5+1) = 0.833`. In another word, for all emails
+that are predicted as spam, 83.3% were real spam.
+
+> This value is useful when false alarms are costly
+
+#### 1.1.3 Recall
+
+**Accuracy** is a numeric value between `0(caught nothing) and 1(caught all)` that reflects how often the 
+model predict a correct label overall.
+
 ## Choose metrics to evaluate a model
 
 The appropriate metrics are important to evaluate a model. There are many factors that we need to consider, such as
