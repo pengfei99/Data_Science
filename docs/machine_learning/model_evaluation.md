@@ -9,10 +9,12 @@ In this chapiter, we will learn how to evaluate a model.
 A **confusion matrix** is a table that shows how well a `classification model` is performing. It compares 
 the `actual labels` with the `predicted labels`.
 
-| Actual label value     | Predicted Negative label	 | Predicted Positive label |
-|------------------------|---------------------------|--------------------------|
-| Actual Negative label	 | TN (True Negative)	       | FP (False Positive)      |
-| Actual Positive label  | 	FN (False Negative)	     | TP (True Positive)       |
+|1||
+
+| Actual label value     | Predicted Negative label | Predicted Positive label |
+|------------------------|--------------------------|--------------------------|
+| Actual Negative label	 | TN (True Negative)	      | FP (False Positive)      |
+| Actual Positive label  | 	FN (False Negative)	    | TP (True Positive)       |
 
 - **TP**: Correctly predicted positive 
 - **TN**: Correctly predicted negative
@@ -67,18 +69,82 @@ that are predicted as spam, 83.3% were real spam.
 model can catch an actual positive label. The formula to calculate: **Recall = TP / (TP + FN)**
 
 With the above cm example, we can say the model caught `5 / (5 + 1) = 0.833`. In another word, for all emails that are
-spams, the model caught 83.3%.
+spam, the model caught 83.3%.
 
-> This value is useful when missing a spam are costly
+> This value is useful when missing a spam email is costly
 > 
-> 
-#### 1.1.3 F1 Score
+
+#### 1.1.4 F1 Score
 
 **F1 score** is a `harmonic mean value of precision value and recall value`. The formula to calculate F1 score: **2 × (Precision × Recall) / (Precision + Recall)**
 
 With the above cm example, we can say the F1 Score is `2 × (0.833 × 0.833) / (0.833 + 0.833) = 0.833`. 
 
 > The F1 score is very useful when classes in training dataset are imbalanced or you want fair trade-off.
+> 
+> 
+
+### 1.2 ROC(Receiver Operating Characteristic) Curve
+
+The ROC Curve is a 2D graphe that has two axes:
+
+- X-axis: `False Positive Rate (FPR) = FP / (FP + TN)`
+- Y-axis: `True Positive Rate (TPR) = TP / (TP + FN) (also called Recall)`
+
+The below figure is a ROC curve example:
+
+![roc_curve_example.png](../images/roc_curve_example.png)
+
+The `red diagonal line`, it represents a random guess(FPR = TPR). We use it to control the
+model predictions. 
+The `Blue curve` represents the model's performance at a specific classification threshold. In our case, it rises
+quickly to the top-left corner of the plot. I
+
+
+Concept	Description
+Perfect Classifier	ROC curve goes straight up to (0,1), then across to (1,1) — AUC = 1.0
+Random Classifier	Diagonal line from (0,0) to (1,1) — AUC = 0.5
+Better than Random	ROC curve bows toward the top-left — AUC > 0.5
+Worse than Random	If below the diagonal, model might be flipping predictions! AUC < 0.5
+
+
+What is AUC?
+AUC = Area Under the Curve
+
+A value between 0 and 1 that summarizes the model's performance
+
+The closer to 1, the better
+
+
+AUC Value	Interpretation
+0.90–1.00	Excellent
+0.80–0.90	Good
+0.70–0.80	Fair
+0.60–0.70	Poor
+0.50–0.60	Fail (or random guessing)
+
+When to Use ROC Curve?
+Use ROC when:
+
+You care about the ranking of predictions (not raw accuracy).
+
+You have balanced or nearly balanced classes.
+
+If your dataset is highly imbalanced, consider using a Precision-Recall curve instead.
+
+📈 Example Intuition
+Imagine a medical test:
+
+A low threshold means you'll catch more real positives (high recall), but also more false alarms.
+
+A high threshold means fewer false alarms, but you might miss actual positives.
+
+The ROC curve shows how your model trades off these two effects.
+
+Want to see an animated example or try building an ROC curve from scratch with toy data?
+
+
+### 1.3 PR (Precision vs Recall) Curve
 
 ## Choose metrics to evaluate a model
 

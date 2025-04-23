@@ -1,0 +1,27 @@
+site_name: data_science
+site_description: pengfei's data_science documentation.
+site_author: Pengfei Liu
+
+repo_url: https://github.com/pengfei99/Data_Science
+edit_uri: blob/master/docs/
+
+
+theme:
+  name: mkdocs
+  color_mode: auto
+  user_color_mode_toggle: true
+  locale: en
+  highlightjs: true
+  hljs_languages:
+    - yaml
+    - django
+
+
+exclude_docs: |
+  *.py
+
+nav:
+  - Home: index.md
+  - Machine Learning:
+      - introduction: ./machine_learning/01.Introduction.md
+      - model evaluation: ./machine_learning/model_evaluation.md
