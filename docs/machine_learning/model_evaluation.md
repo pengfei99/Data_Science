@@ -171,19 +171,26 @@ the AUC value, the better the model can `find positive cases without too many fa
 
 Use PRC when the **classes are imbalanced** (e.g., rare disease detection, fraud detection)
 
-## Choose metrics to evaluate a model
+## 2. Choose metrics to evaluate a model
 
 The appropriate metrics are important to evaluate a model. There are many factors that we need to consider, such as
 the goal of the model(e.g. classification, regression, etc.), the dataset properties(balanced, imbalanced).
 
-### For classification model
+### 2.1 For a classification model
 
 In general, we use confusion matrix and related stats such as `Accuracy`, `Precision`, `Recall` and `F1 score` to 
 evaluate a classification model.
 
 
-For balanced dataset, we can also use `ROC Curve` and `AUC value` .
-For imbalanced dataset, we can use `Precision-Recall Curve` and `AUC value`
+- For balanced dataset, we can also use `ROC Curve` and `AUC value` .
+- For imbalanced dataset, we can use `Precision-Recall Curve` and `AUC value`
+
+### 2.2 For a regression model
+
+In general, we can use:
+- MAE (Mean Absolute Error)
+- RMSE (Root Mean Square Error)
+- R² (Coefficient of Determination)
 
 
 
