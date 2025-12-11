@@ -79,6 +79,9 @@ print("The CNN model predict the image is a "+ str(np.argmax(prediction[2])))
 plt.imshow(x_test[2])
 plt.show()
 ########################## 8. save the model #########################################################
-model.save('pengfei_cnn_digit_reader.model')
-new_model=tf.keras.models.load_model("pengfei_cnn_digit_reader.model")
+model_path = 'pengfei_cnn_digit_reader.keras'
+model.export(model_path)
+
+############################ 9. load model ####################################################
+new_model=tf.keras.models.load_model(model_path)
 
